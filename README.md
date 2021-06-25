@@ -18,14 +18,12 @@ There no prerequistes for making this application, simple notepad will also work
 ### Still need help?
 
 ```
-
   if (needHelp === true) {
      var emailId = "omkarghate01@gmail.com";
      // email is the best way to reach out to me.
      sendEmail(emailId);
   }
-
 ```
 
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/omkarghate/) 
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@omkarghate&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/omkarghate/)
