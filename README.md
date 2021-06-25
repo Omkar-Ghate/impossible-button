@@ -27,6 +27,5 @@ There no prerequistes for making this application, simple notepad will also work
 
 ```
 
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/Devil-Button/) this repo.***
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/omkarghate/) 
